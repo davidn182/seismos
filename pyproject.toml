@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "seismos"
 version = "0.1.0"
-description = "Seismos is a Python package currently under development for the inversion of hypocenters and moment tensors, and the quality control of passive seismic data. It aims to provide a range of tools for efficient and accurate analysis of seismic data, leveraging the power of the ObsPy and Pyrocko libraries. Seismos is being designed to offer customizable algorithms for earthquake detection and location, and advanced techniques for moment tensor inversion, and to provide a user-friendly and flexible environment for passive seismic data analysis and interpretation. Seismos is being developed with seismology researchers, industry professionals, and students in mind, to enable them to unlock the information contained in seismic data for natural hazards monitoring, exploration of natural resources, and scientific research. We appreciate any feedback and suggestions during the development process."
+description = "Seismos is a Python package currently under development for the inversion of hypocenters and moment tensors, and the quality control of passive seismic data. It aims to provide a range of tools for efficient and accurate analysis of seismic data, leveraging the power of the ObsPy and Pyrocko libraries."
 authors = ["David Naranjo <davidn182@hotmail.com>", "Evgeniia Martuganova <e.martuganova@tudelft.nl"]
 license = "MIT License"
 
