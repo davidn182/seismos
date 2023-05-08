@@ -18,6 +18,7 @@ _build/
 dist/
 
 # Environment files
+myenv/
 *.swp
 *.swo
 *.swn
