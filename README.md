@@ -1,3 +1,7 @@
+# seismos
+
+Seismos is a Python package currently under development for the inversion of hypocenters and moment tensors, and the quality control of passive seismic data. It aims to provide a range of tools for efficient and accurate analysis of seismic data, leveraging the power of the ObsPy and Pyrocko libraries.
+
 ## Create a Virtual Environment
 
 To create a Virtual Environment and install `seismos`, we will use the `poetry install` command:
