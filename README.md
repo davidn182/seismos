@@ -12,7 +12,12 @@ poetry install
 poetry shell
 ```
 
-To deactivate the virtual environment and exit this new shell type `exit`. To deactivate the virtual environment without leaving the shell use `deactivate`.
+To deactivate the virtual environment and exit this new shell type 
+```
+exit
+``` 
+
+To deactivate the virtual environment without leaving the shell use `deactivate`.
 
 ## Additional dependency: fomosto installation
 
