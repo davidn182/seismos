@@ -73,6 +73,7 @@ deactivate
 
 f you need to create Green function databases using fomosto, you need to install it. To do this, simply run the provided `install-fomosto.sh` script:
 
+It works if you have [gfortran](https://gcc.gnu.org/wiki/GFortran) installed. If you wanna use a different compiler make sure to change line 214 `F77=gfortran` and line 244 `ac_ct_F77 = gfortran`
 ```bash
 chmod +x install-fomosto.sh
 ./install-fomosto.sh
